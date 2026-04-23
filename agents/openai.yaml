@@ -1,0 +1,4 @@
+interface:
+  display_name: "DDGS Search Harness"
+  short_description: "DDGS-first web search workflow"
+  default_prompt: "Use $ddgs-search-harness to research a question with ddgs-first retrieval and structured evidence."
