@@ -1,4 +1,4 @@
 interface:
   display_name: "DDGS Search Harness"
-  short_description: "DDGS-first web search workflow"
-  default_prompt: "Use $ddgs-search-harness to research a question with ddgs-first retrieval and structured evidence."
+  short_description: "Concept-grounded DDGS search packets"
+  default_prompt: "Use $ddgs-search-harness to research a question with concept-grounded DDGS retrieval, compact agent output, and full trace artifacts."
